@@ -1,0 +1,44 @@
+/* .courses-list{
+  -webkit-text-size-adjust: 100%;
+  font-family: "Segoe UI", "Helvetica Neue", Arial, sans-serif;
+  color: #3c3c3b;
+  font-weight: 300;
+  font-size: 17.5px;
+  line-height: 22px;
+  overflow: hidden;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: flex-start;
+  list-style: none;
+  margin: 60px 0 20px;
+  padding: 0;
+}
+.courses-sci{
+  -webkit-text-size-adjust: 100%;
+  font-family: "Segoe UI", "Helvetica Neue", Arial, sans-serif;
+  color: #3c3c3b;
+  font-weight: 300;
+  font-size: 17.5px;
+  line-height: 22px;
+  list-style: none;
+  float: left;
+  box-sizing: border-box;
+  overflow: hidden;
+  display: block;
+  margin: 0 15px 55px;
+  width: 170px;
+  min-height: 260px;
+  border: solid 1px #b5b5b5;
+  border-radius: 10px;
+  background: #fff;
+} */
+.navs {
+  display: inline-block; /*Задаем блочно-строчное отображение*/
+  width: 180px; /*задаем ширину блока*/
+  background: dodgerblue;
+}
+
+.strings {
+  text-align: center; /*Равняем текст по-горизонтали*/
+}

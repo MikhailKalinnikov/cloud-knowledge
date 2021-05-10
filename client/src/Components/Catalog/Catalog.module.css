@@ -1,0 +1,26 @@
+/* .items input {
+  display: block;
+  margin: 5px auto;
+  font-family: 'Comic Sans MS', 'cursive', 'sans-serif';
+  font-size: 12pt;
+  background-color: #12323b;
+  color: #61dafb;
+  height: 30px;
+  width: 176px;
+  text-align: center;
+  border: solid 1px #12323b;
+}
+
+.items input::placeholder {
+  color: #3f738b;
+  font-family: 'Comic Sans MS', 'cursive', 'sans-serif';
+  opacity: 1;
+}
+.items select {
+  font-family: 'Comic Sans MS', 'cursive', 'sans-serif';
+  font-size: 12pt;
+  background-color: #12323b;
+  color: #61dafb;
+  height: 30px;
+  width: 176px;
+} */
