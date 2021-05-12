@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/cloud-knowledge/static/css/main.71649b88.chunk.css",
+    "main.js": "/cloud-knowledge/static/js/main.0eb472e5.chunk.js",
+    "main.js.map": "/cloud-knowledge/static/js/main.0eb472e5.chunk.js.map",
+    "runtime-main.js": "/cloud-knowledge/static/js/runtime-main.0885f803.js",
+    "runtime-main.js.map": "/cloud-knowledge/static/js/runtime-main.0885f803.js.map",
+    "static/js/2.7893b1e5.chunk.js": "/cloud-knowledge/static/js/2.7893b1e5.chunk.js",
+    "static/js/2.7893b1e5.chunk.js.map": "/cloud-knowledge/static/js/2.7893b1e5.chunk.js.map",
+    "index.html": "/cloud-knowledge/index.html",
+    "static/css/main.71649b88.chunk.css.map": "/cloud-knowledge/static/css/main.71649b88.chunk.css.map",
+    "static/js/2.7893b1e5.chunk.js.LICENSE.txt": "/cloud-knowledge/static/js/2.7893b1e5.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0885f803.js",
+    "static/js/2.7893b1e5.chunk.js",
+    "static/css/main.71649b88.chunk.css",
+    "static/js/main.0eb472e5.chunk.js"
+  ]
+}
